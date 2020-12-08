@@ -5,3 +5,5 @@ A simple clock widget that pulls weather data from the Canadian government's web
 Requires Python 2.7.1 (yeah, this is old) and wxPython 3.0.2.0.
 
 Replace the WEATHERURL variable with your own city's weather RSS page from the Canadian government's [weather website](https://weather.gc.ca/). Example: For Montreal, the URL is: https://weather.gc.ca/rss/city/qc-147_e.xml
+
+![screen1](Screenshots/screen1.png)
